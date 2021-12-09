@@ -17,6 +17,7 @@
 			<dc:product rdf:resource="https://www.whiskasindonesia.com/"/>
 			<dc:product rdf:resource="https://ingcotools.id/"/>
 			<dc:product rdf:resource="https://www.toyskingdom.co.id/"/>
+			<dc:product rdf:resource="https://www.optikseis.com/kacamata/category/optical/gender/female/"/>
 		</rdf:Description>
 
 		<rdf:Description rdf:about="https://www.indofood.com/">
@@ -85,9 +86,15 @@
 			<dc:image>https://sc04.alicdn.com/kf/Hab02d759ff5045a2b1b0ad3d453fe563V.jpg</dc:image>
 		</rdf:Description>
 
-		<rdf:Description rdf:about="https://www.indofood.com/">
+		<rdf:Description rdf:about="https://www.toyskingdom.co.id/">
 			<dc:title>Tayo Bus</dc:title>
 			<dc:price>Rp.150.000</dc:price>
 			<dc:image>https://s0.bukalapak.com/img/00439424141/large/MAINAN_TAYO_BUS_KECIL_TAYO_THE_LITTLE_BUS_PULL_BACK_MAINAN_A.jpeg</dc:image>
+		</rdf:Description>
+		
+		<rdf:Description rdf:about="https://www.optikseis.com/kacamata/category/optical/gender/female/">
+			<dc:title>Kaca Mata</dc:title>
+			<dc:price>Rp.4.000.000</dc:price>
+			<dc:image>https://ds393qgzrxwzn.cloudfront.net/resize/c500x500/cat1/img/images/0/mdZk5hFDfu.jpg</dc:image>
 		</rdf:Description>
 </rdf:RDF>
