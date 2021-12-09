@@ -21,7 +21,7 @@
 
 		<rdf:Description rdf:about="https://www.indofood.com/">
 			<dc:title>Indomie</dc:title>
-			<dc:price>2000</dc:price>
+			<dc:price>Rp.2000</dc:price>
 			<dc:image>https://www.eresep.com/media/images/produk/2020/11/18/indomierasarendang.jpg.1000x650_q85.jpg</dc:image>
 		</rdf:Description>
 
