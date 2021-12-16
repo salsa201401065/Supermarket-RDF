@@ -92,7 +92,7 @@
 			<dc:image>https://s0.bukalapak.com/img/00439424141/large/MAINAN_TAYO_BUS_KECIL_TAYO_THE_LITTLE_BUS_PULL_BACK_MAINAN_A.jpeg</dc:image>
 		</rdf:Description>
 	
-	<rdf:Description rdf:about="https://www.1988mart.com/">
+	<rdf:Description rdf:about="https://www.1988mart/owner.com">
         <foaf:crew rdf:resource="https://www.instagram.com/erlincindini" />
         <foaf:crew rdf:resource="https://www.instagram.com/salsabilaahmrh" />
         
