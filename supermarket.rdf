@@ -4,7 +4,7 @@
 	xmlns:dc="http://purl.org/dc/elements/1.1/" 
 	xmlns:foaf="http://xmlns.com/foaf/0.1/">
 		
-		<rdf:Description rdf:about="https://www.1988mart.com/rooms/">
+		<rdf:Description rdf:about="https://www.1988mart.com/">
 			<dc:product rdf:resource="https://www.indofood.com/"/>
 			<dc:product rdf:resource="https://www.faber-castell.com/"/>
 			<dc:product rdf:resource="https://id.sharp/"/>
@@ -91,5 +91,25 @@
 			<dc:price>Rp.150.000</dc:price>
 			<dc:image>https://s0.bukalapak.com/img/00439424141/large/MAINAN_TAYO_BUS_KECIL_TAYO_THE_LITTLE_BUS_PULL_BACK_MAINAN_A.jpeg</dc:image>
 		</rdf:Description>
+	
+	<rdf:Description rdf:about="https://www.1988mart.com/">
+        <foaf:crew rdf:resource="https://www.instagram.com/erlincindini" />
+        <foaf:crew rdf:resource="https://www.instagram.com/salsabilaahmrh" />
+        
+   	 </rdf:Description>
+	
+	<rdf:Description rdf:about="https://www.instagram.com/erlincindini">
+       		 <foaf:name>Erlin Cindini Manullang</foaf:name>
+        	<foaf:nim>201401047</foaf:nim>
+        	<foaf:img>https://cdn.kibrispdr.org/data/foto-tokoh-kartun-6.jpg</foaf:img>
+
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://www.instagram.com/salsabilaahmrh">
+        <foaf:name>Salsabila Humairah</foaf:name>
+        <foaf:nim>201401065</foaf:nim>
+        <foaf:img>https://fashionsista.co/wallpaper/wallpaper/20210830/deretan-gambar-animasi-lucu-kartun-muslimah-untuk-whatsapp-preview.jpg</foaf:img>
+        
+    </rdf:Description>
 		
 </rdf:RDF>
